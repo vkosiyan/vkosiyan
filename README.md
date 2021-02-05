@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Welcome Banner](images/welcomebanner.png)
 <!--
 **vkosiyan/vkosiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi, and welcome! 👋
 
-I'm a full stack web developer with a background in Human Resources, E-commerce, and Product Development. I recently completed a full-time software immersive bootcamp with General Assembly which included over 450 hrs of professional training over the course of twelve weeks. I have a passion for learning and for innovation, and am excited for the opportunity to keep growing and to contribute my skills in a meaningful manner.
+I'm a full stack web developer with a background in Human Resources, E-commerce, and Product Development. I recently completed a full-time software immersive bootcamp with General Assembly, which included over 450 hrs of professional training over the course of twelve weeks. I have a passion for learning and innovation, and am excited for the opportunity to contribute my skills in a meaningful manner!
 
 
 **I'm currently learning** Java through Codeacademy.
@@ -27,5 +27,6 @@ I'm a full stack web developer with a background in Human Resources, E-commerce,
 
 
 ## Connect with Me:
-* [My Portfolio](https://vanessa-kosiyanon.com)
+<!-- 
+* [My Portfolio](https://vanessa-kosiyanon.com) -->
 * [LinkedIn](https://linkedin.com/in/vkosiyan)
