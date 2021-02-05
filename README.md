@@ -20,10 +20,12 @@ I'm a full stack web developer with a background in Human Resources, E-commerce,
 
 
 **I'm currently learning** Java through Codeacademy.
+
 **I'm currently working on** a React.js app that has similar functionality to Goodreads.com.
+
 **In my free time you can** find me playing videogames (currently on a Hearthstone kick), or watching a DIY tutorial on YouTube.
 
 
 ## Connect with Me:
-* [My Portfolioi](https://vanessa-kosiyanon.com)
+* [My Portfolio](https://vanessa-kosiyanon.com)
 * [LinkedIn](https://linkedin.com/in/vkosiyan)
