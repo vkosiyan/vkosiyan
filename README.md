@@ -1,4 +1,4 @@
-![Welcome Banner](images/banner.png)
+![Welcome Banner](images/topbanner.png)
 <!--
 **vkosiyan/vkosiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
