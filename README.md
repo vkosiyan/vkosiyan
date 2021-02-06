@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi, and welcome! 👋
 
-I'm a full stack web developer with a background in Human Resources, E-commerce, and Product Development. I recently completed a full-time software immersive bootcamp with General Assembly, which included over 480 hrs of professional training over the course of twelve weeks. I grew a love for programming in junior high when I self-taught myself HTML and CSS to do web-design as a hobby, and now I'm very excited to turn coding into my career.
+I'm a full stack web developer with a background in Human Resources, E-commerce, and Product Development. I recently completed a full-time software immersive bootcamp with General Assembly, which included over 480 hrs of professional training over the course of twelve weeks. I grew a love for programming in junior high when I self-taught myself HTML and CSS to do web-design as a hobby, and now I'm very excited to turn coding into a career!
 
 **Languages:**
 JavaScript, Python, HTML, CSS
