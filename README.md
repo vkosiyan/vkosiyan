@@ -18,22 +18,22 @@ Here are some ideas to get you started:
 
 I'm a full stack web developer with a background in Human Resources, E-commerce, and Product Development. I recently completed a full-time software immersive bootcamp with General Assembly, which included over 480 hrs of professional training over the course of twelve weeks. I grew a love for programming in junior high when I self-taught myself HTML and CSS to do web-design as a hobby, and now I'm very excited to turn coding into my career.
 
-**Languages:
+**Languages:**
 JavaScript, Python, HTML, CSS
 
-**Frameworks and Libraries:
+**Frameworks and Libraries:**
 React, Bootstrap, Semantic-UI React
 
-**Server-side: 
+**Server-side:**
 Node.js, Express, MongoDB, Mongoose, AWS
 
-**Version Control and Workflow Management:
+**Version Control and Workflow Management:**
 Git/GitHub, Trello, RESTful APIs
 
-**Methodologies:
+**Methodologies:**
 MVC Pattern, ERDs, Wireframing, User Stories, Command-line
 
-## Connect with Me:
+## Connect with Me 💻:
 
-* [My Portfolio](https://vanessa-kosiyanon.com)
-* [LinkedIn](https://linkedin.com/in/vkosiyan)
+* Check out [My Portfolio](https://vanessa-kosiyanon.com)
+* Connect with me on [LinkedIn](https://linkedin.com/in/vkosiyan)
