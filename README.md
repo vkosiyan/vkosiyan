@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Vanessa! 👋☕
-I'm a full stack web developer with a background in Human Resources, E-commerce, and Product Development. I recently completed a full-time software immersive bootcamp with General Assembly, which included over 480 hrs of professional training over the course of twelve weeks. For the past five years, I’ve worked at companies with startup like mentalities, which has grown my love for learning new skills and taking on more responsibility. My professional strengths include creative problem-solving, project management, strong verbal and written communication, and an infectious positive attitude. My motivation comes from the rewarding feeling of new accomplishments, so therefore I'm always excited for a new challenge. I grew a love for programming in junior high when I self-taught myself HTML and CSS to do web-design as a hobby, and now I'm very excited to turn coding into a career!
+I'm a full stack web developer with a background in Human Resources, E-commerce, and Product Development. I recently completed a full-time software immersive bootcamp with General Assembly, which included over 480 hrs of professional training over the course of twelve weeks. For the past five years, I’ve worked at companies with startup like mentalities, which has grown my love for learning new skills and taking on more responsibility. My motivation comes from the rewarding feeling of new accomplishments, so therefore I'm always excited for a new challenge. I grew a love for programming in junior high when I self-taught myself HTML and CSS to do web-design as a hobby, and now I'm very thrilled to turn coding into a career!
 
 **Languages:**
 JavaScript, Python, HTML, CSS
