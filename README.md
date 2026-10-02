@@ -21,8 +21,8 @@ Frontend developer based in Irvine, CA. For 5+ years I built internal React tool
 I taught myself HTML and CSS in junior high to build websites as a hobby, and I've been building for the web ever since.
 
 ## Tech
-**Frontend:** React, JavaScript, HTML, CSS/SCSS, Styled Components, React Hooks
-**Backend & APIs:** Node.js, Express, MongoDB, PostgreSQL, Django, REST APIs, WebSockets
+**Frontend:** React, JavaScript, HTML, CSS/SCSS, Styled Components, React Hooks<br>
+**Backend & APIs:** Node.js, Express, MongoDB, PostgreSQL, Django, REST APIs, WebSockets<br>
 **Tools:** Git, GitHub, GitLab, AWS S3
 
 ## Projects
