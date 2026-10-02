@@ -14,25 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Vanessa! 👋☕
-I'm a full stack web developer with a background in Human Resources, E-commerce, and Product Development. I recently completed a full-time software immersive bootcamp with General Assembly, which included over 480 hrs of professional training over the course of twelve weeks. For the past five years, I’ve worked at companies with startup like mentalities, which has grown my love for learning new skills and taking on more responsibility. My motivation comes from the rewarding feeling of new accomplishments, so therefore I'm always excited for a new challenge. I grew a love for programming in junior high when I self-taught myself HTML and CSS to do web-design as a hobby, and now I'm very thrilled to turn coding into a career!
+# Hi, I'm Vanessa 👋☕
 
-**Languages:**
-JavaScript, Python, HTML, CSS
+Frontend developer based in Irvine, CA. For 5+ years I built internal React tools for film production teams at Lightstorm Entertainment (the *Avatar* films), including searchable data pages, real-time collaboration features, and reusable UI components.
 
-**Frameworks and Libraries:**
-React, Bootstrap, Semantic-UI React
+I taught myself HTML and CSS in junior high to build websites as a hobby, and I've been building for the web ever since.
 
-**Server-side:**
-Node.js, Express, MongoDB, Mongoose, AWS
+## Tech
+**Frontend:** React, JavaScript, HTML, CSS/SCSS, Styled Components, React Hooks
+**Backend & APIs:** Node.js, Express, MongoDB, PostgreSQL, Django, REST APIs, WebSockets
+**Tools:** Git, GitHub, GitLab, AWS S3
 
-**Version Control and Workflow Management:**
-Git/GitHub, Trello, RESTful APIs
+## Projects
+- **[Bookish](link)**: book search app using the Google Books and NYT Best Sellers APIs
+- **[You Should Try](link)**: TV-show recommender with Google OAuth
+- **[Goal Tracker](link)**: Django/PostgreSQL goal and bucket-list app
 
-**Methodologies:**
-MVC Pattern, ERDs, Wireframing, User Stories, Command-line
+## Currently
+Sharpening my skills by building a TypeScript + React deliveries tracker with tests. *(Only keep this line once you've started it.)*
 
-## Connect with Me 💻:
-
-* Check out [My Portfolio](https://vanessa-kosiyanon.com)
-* Connect with me on [LinkedIn](https://linkedin.com/in/vkosiyan)
+📫 [LinkedIn](https://linkedin.com/in/vkosiyan)
